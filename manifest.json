@@ -1,0 +1,9 @@
+{
+  "name": "アイカツ！アンコール カード図鑑",
+  "short_name": "アイカツ図鑑",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8fc",
+  "theme_color": "#d98cff",
+  "lang": "ja"
+}
